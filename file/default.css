@@ -33,12 +33,12 @@ a {
 #code {
     display: none;
     color: rgb(196, 255, 255);
-    width: 500px;
+    width: 600px;
     height: 450px;
     overflow-y: auto;
     margin-top: 20px;
     line-height: 28px;
-    font-size: 22px;
+    font-size: 19px;
     font-weight: bolder;
 }
 #clock-box {
