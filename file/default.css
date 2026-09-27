@@ -38,7 +38,8 @@ a {
     overflow-y: auto;
     margin-top: 20px;
     line-height: 28px;
-    font-size: 19px;
+    font-size: 15px;
+    margin-left: -80px;
     font-weight: bolder;
 }
 #clock-box {
